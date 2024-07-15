@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pagebaicheat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pagebaicheat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pagebaicheat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pagebaicheat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pagegeo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pagegeo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pagerealtime.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pagerealtime.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pagerealtime.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pagerealtime.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pageconditionaldraw.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pageconditionaldraw.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pageconditionaldraw.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pageconditionaldraw.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pageangl.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pageangl.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pageradialgradients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pageradialgradients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pageradialgradients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pageradialgradients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pagepolar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pagepolar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pagepolar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pagepolar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pagegeo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pagegeo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\pages\\pageangl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\pages\\pageangl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|c:\\users\\stipo6\\source\\repos\\livechart2\\livechart2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D9EFCC9-BCC7-4571-96C6-34BB8A170A07}|LiveChart2\\LiveChart2.csproj|solutionrelative:livechart2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 405,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageBaicHeat.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageBaicHeat.xaml.cs",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageBaicHeat.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageBaicHeat.xaml.cs",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageBaicHeat.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:41:17.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageBaicHeat.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageBaicHeat.xaml",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageBaicHeat.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageBaicHeat.xaml",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageBaicHeat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T10:40:51.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PageGeo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageGeo.xaml.cs",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageGeo.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageGeo.xaml.cs",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageGeo.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:11:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageGeo.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageGeo.xaml",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageGeo.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageGeo.xaml",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageGeo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T10:08:50.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageAngl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageAngl.xaml.cs",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageAngl.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageAngl.xaml.cs",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageAngl.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:03:43.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PageAngl.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageAngl.xaml",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageAngl.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageAngl.xaml",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageAngl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T10:03:11.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LiveChart2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LiveChart2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwD8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:29:31.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageConditionalDraw.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageConditionalDraw.xaml.cs",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageConditionalDraw.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageConditionalDraw.xaml.cs",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageConditionalDraw.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAawDwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:21:08.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageRadialGradients.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageRadialGradients.xaml",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageRadialGradients.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageRadialGradients.xaml",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageRadialGradients.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T10:18:20.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagePolar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PagePolar.xaml.cs",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PagePolar.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PagePolar.xaml.cs",
+              "RelativeToolTip": "LiveChart2\\Pages\\PagePolar.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:16:53.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagePolar.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PagePolar.xaml",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PagePolar.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PagePolar.xaml",
+              "RelativeToolTip": "LiveChart2\\Pages\\PagePolar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T10:16:36.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageRealTime.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageRealTime.xaml.cs",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageRealTime.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageRealTime.xaml.cs",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageRealTime.xaml.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAADwvzoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:36:10.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageRealTime.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageRealTime.xaml",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageRealTime.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageRealTime.xaml",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageRealTime.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T10:35:52.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageConditionalDraw.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageConditionalDraw.xaml",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageConditionalDraw.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageConditionalDraw.xaml",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageConditionalDraw.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T10:20:12.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LiveChart2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\MainWindow.xaml",
+              "RelativeToolTip": "LiveChart2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T09:29:33.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageRadialGradients.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageRadialGradients.xaml.cs",
+              "RelativeDocumentMoniker": "LiveChart2\\Pages\\PageRadialGradients.xaml.cs",
+              "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\LiveChart2\\LiveChart2\\Pages\\PageRadialGradients.xaml.cs",
+              "RelativeToolTip": "LiveChart2\\Pages\\PageRadialGradients.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:18:43.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
